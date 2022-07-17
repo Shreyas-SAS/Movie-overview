@@ -2,13 +2,15 @@
 
 Basic movie overview app made using basic Javascript for front end
 
-## Images
-
-<img src="/images/webapp.png" alt="movie-overview webapp image"/>
-
+---
 ## Getting Started
 
 To start using the application you can either clone the repository and launch the index.html file or view the hosted version of the web app here at [movie-overview](https://movie-overview.herokuapp.com/)
+
+---
+## Preview-Image
+
+<img src="/images/webapp.png" alt="movie-overview webapp image"/>
 
 ---
 ## Description
